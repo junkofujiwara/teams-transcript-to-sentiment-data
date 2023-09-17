@@ -1,0 +1,4 @@
+Index	Start_Time	End_Time	Speaker	Text	Sentiment	Positive_Score	Neutral_Score	Negative_Score	Key_Phrases
+0	0:0:0.0	0:0:0.820	Person A	Hello	neutral	0.16	0.82	0.03	Hello
+1	0:0:3.410	0:0:4.280	Person B	Hello! How are you?	positive	0.61	0.35	0.04	
+2	0:0:4.590	0:0:4.750	Person C	Great. We went to Contoso Steakhouse located at midtown NYC last week for a dinner party.	positive	0.99	0.01	0.0	Contoso Steakhouse,midtown NYC,dinner party

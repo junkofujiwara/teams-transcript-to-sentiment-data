@@ -1,0 +1,9 @@
+0:0:0.0 --> 0:0:0.820
+Person A
+Hello
+0:0:3.410 --> 0:0:4.280
+Person B
+Hello! How are you?
+0:0:4.590 --> 0:0:4.750
+Person C
+Great. We went to Contoso Steakhouse located at midtown NYC last week for a dinner party.
