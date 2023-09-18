@@ -27,6 +27,6 @@ Index	Start_Time	End_Time	Speaker	Text	Sentiment	Positive_Score	Neutral_Score	Ne
 (delimiter is defined in OUTPUT_DELIMITER)
 
 ### Reference
-[Create a multi-service resource for Azure AI services](https://learn.microsoft.com/en-us/azure/ai-services/multi-service-resource?tabs=windows&pivots=azportal)
-[What is sentiment analysis and opinion mining?](https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/overview?tabs=prebuilt)
-[What is key phrase extraction in Auzre AI Language?](https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/overview)
+- [Create a multi-service resource for Azure AI services](https://learn.microsoft.com/en-us/azure/ai-services/multi-service-resource?tabs=windows&pivots=azportal)
+- [What is sentiment analysis and opinion mining?](https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/overview?tabs=prebuilt)
+- [What is key phrase extraction in Auzre AI Language?](https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/overview)
